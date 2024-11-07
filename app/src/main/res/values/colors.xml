@@ -18,4 +18,10 @@
     <color name="color_boton_secundario_presionado">#01E3FF</color>
     <color name="color_boton_secundario_presionado_">#006775</color>
 
+    <color name="color_boton_terciario_sin_presionar">#710010</color>
+    <color name="color_boton_terciario_sin_presionar_">#F67070</color>
+
+    <color name="color_boton_terciario_presionado">#000B50</color>
+    <color name="color_boton_terciario_presionado_">#C5E3EB</color>
+
 </resources>
